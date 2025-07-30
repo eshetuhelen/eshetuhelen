@@ -13,6 +13,9 @@ Email Me 👉 ✉️ **ababahelen9@gmail.com** For Collaboration/Project or Anyt
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=eshetuhelen&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ## 🌐 Socials:
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?logo=google-chrome&logoColor=white)](https://hel-portfolio.netlify.app/)
+[![Download My Resume](https://img.shields.io/badge/Download_My_Resume-D14836?logo=adobeacrobatreader&logoColor=white)](https://raw.githubusercontent.com/eshetuhelen/Web_Portfolio/main/helen_eshetu_resume.pdf)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/helenababa)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/helen-eshetu-31157b307/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ababahelen9@gmail.com) 
 <!-- Snake Game Repo View -->
 
