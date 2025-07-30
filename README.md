@@ -8,7 +8,6 @@ Email Me 👉 ✉️ **ababahelen9@gmail.com** For Collaboration/Project or Anyt
 - 💬 **Ask me about:** Machine Learning model development.
 - 📫 **How to reach me:** ababahelen9@gmail.com
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me.
-- 📄 Know about my experiences [[📄 Download My Resume](https://raw.githubusercontent.com/eshetuhelen/Web_Portfolio/main/helen_eshetu_resume.pdf)]([📄 Download My Resume](https://raw.githubusercontent.com/eshetuhelen/Web_Portfolio/main/helen_eshetu_resume.pdf))
 
 
 ## 🏆 GitHub Trophies
